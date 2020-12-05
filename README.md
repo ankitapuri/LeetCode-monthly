@@ -7,3 +7,4 @@
 | Linked List Random Node | [solution](December/day2.cpp) |
 | Increasing Order Search Tree | [solution](December/day3.cpp) |
 | The kth Factor of n | [solution](December/day4.cpp) |
+| Can place flowers | [solution](December/day5.cpp) |
