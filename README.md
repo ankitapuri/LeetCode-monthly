@@ -1,6 +1,6 @@
-### LeetCode-Daily Practice
+## LeetCode-Daily Practice
 
-#### **December**
+### **December**
 | Questions | Link |
 | - | - |
 | Maximum Depth of Binary Tree | [solution](December/day1.cpp) |
