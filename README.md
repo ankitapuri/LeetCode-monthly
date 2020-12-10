@@ -12,3 +12,4 @@
 | Spiral Matrix II | [solution](December/day7.cpp) |
 | Pairs of Songs With Total Durations Divisible by 60 | [solution](December/day8.cpp) |
 | Binary Search Tree Iterator | [solution](December/day9.cpp) |
+| Valid Mountain Array | [solution](December/day10.cpp) |
