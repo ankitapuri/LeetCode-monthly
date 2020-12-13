@@ -14,3 +14,4 @@
 | Binary Search Tree Iterator | [solution](December/day9.cpp) |
 | Valid Mountain Array | [solution](December/day10.cpp) |
 | Remove Duplicates from Sorted Array II | [solution](December/day11.cpp) |
+| Smallest Subtree with all the Deepest Nodes | [solution](December/day12.cpp) |
