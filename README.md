@@ -17,3 +17,4 @@
 | Smallest Subtree with all the Deepest Nodes | [solution](December/day12.cpp) |
 | Burst Balloons | [solution](December/day13.cpp) |
 | Palindrome Partitioning | [solution](December/day14.cpp) |
+Squares of a Sorted Array | [solution](December/day15.cpp) |
