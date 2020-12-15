@@ -16,3 +16,4 @@
 | Remove Duplicates from Sorted Array II | [solution](December/day11.cpp) |
 | Smallest Subtree with all the Deepest Nodes | [solution](December/day12.cpp) |
 | Burst Balloons | [solution](December/day13.cpp) |
+| Palindrome Partitioning | [solution](December/day14.cpp) |
