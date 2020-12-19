@@ -1,4 +1,5 @@
 ## LeetCode-Daily Practice
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ankitapuri/LeetCode-Practice?color=red&logoColor=blue)
 
 ### **December**
 | Questions | Link |
