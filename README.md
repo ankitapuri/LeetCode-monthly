@@ -20,3 +20,4 @@
 | Squares of a Sorted Array | [solution](December/day15.cpp) |
 | Validate Binary Search Tree | [solution](December/day16.cpp) |
 | 4Sum II | [solution](December/day17.cpp) |
+|  Increasing Triplet Subsequence | [solution](December/day18.cpp) |
