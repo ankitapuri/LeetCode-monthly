@@ -24,4 +24,4 @@
 | 4Sum II* | [solution](December/day17.cpp) |
 |  Increasing Triplet Subsequence | [solution](December/day18.cpp) |
 | Cherry Pickup II* | [solution](December/day19.cpp) |
-
+| Decoding String at Index* | [solution](December/day20.cpp) |
