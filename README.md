@@ -25,3 +25,4 @@
 |  Increasing Triplet Subsequence | [solution](December/day18.cpp) |
 | Cherry Pickup II* | [solution](December/day19.cpp) |
 | Decoding String at Index* | [solution](December/day20.cpp) |
+| Smallest Range II* | [solution](December/day21.cpp) |
