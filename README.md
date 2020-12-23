@@ -26,3 +26,4 @@
 | Cherry Pickup II* | [solution](December/day19.cpp) |
 | Decoding String at Index* | [solution](December/day20.cpp) |
 | Smallest Range II* | [solution](December/day21.cpp) |
+| Balanced Binary Tree | [solution](December/day22.cpp) |
