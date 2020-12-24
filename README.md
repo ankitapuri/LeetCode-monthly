@@ -27,3 +27,4 @@
 | Decoding String at Index* | [solution](December/day20.cpp) |
 | Smallest Range II* | [solution](December/day21.cpp) |
 | Balanced Binary Tree | [solution](December/day22.cpp) |
+| Next Greater Element III* | [solution](December/day23.cpp) |
