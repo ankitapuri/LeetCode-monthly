@@ -29,3 +29,4 @@
 | Balanced Binary Tree | [solution](December/day22.cpp) |
 | Next Greater Element III* | [solution](December/day23.cpp) |
 | Swap Nodes in Pairs | [solution](December/day24.cpp) |
+| Diagonal Traverse* | [solution](December/day25.cpp) |
