@@ -30,3 +30,4 @@
 | Next Greater Element III* | [solution](December/day23.cpp) |
 | Swap Nodes in Pairs | [solution](December/day24.cpp) |
 | Diagonal Traverse* | [solution](December/day25.cpp) |
+| Decode Ways* | [solution](December/day26.cpp) |
