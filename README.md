@@ -31,3 +31,4 @@
 | Swap Nodes in Pairs | [solution](December/day24.cpp) |
 | Diagonal Traverse* | [solution](December/day25.cpp) |
 | Decode Ways* | [solution](December/day26.cpp) |
+| Reach a number* | [solution](December/day28.cpp) |
