@@ -40,3 +40,6 @@
 | Questions | Link |
 | - | - |
 | Distribute Candies | [solution](March/day1.cpp) |
+|Set Mismatch*| [solution](March/day2.cpp) |
+| Missing Number | [solution](March/day3.cpp) |
+| Intersection of Two Linked Lists* | [solution](March/day4.cpp) |
